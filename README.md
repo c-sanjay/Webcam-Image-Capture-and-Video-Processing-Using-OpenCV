@@ -126,19 +126,36 @@ cap.release()
 ### i) Write the frame as JPG image
 Captured image is saved as `captured_image.jpg`
 
+
 ![alt text](image.png)
+
+
 
 ### ii) Display the video
 Live webcam video is displayed
+
+
 ![alt text](image-1.png)
 
+
+
 ### iii) Display the video by resizing the window
+
 Video is shown in resized resolution (640 × 480)
+
+
 ![alt text](image-2.png)
 
+
+
 ### iv) Rotate and display the video
+
 Video is displayed after rotation (90° clockwise)
+
+
+
 ![alt text](image-3.png)
+
 
 ---
 
